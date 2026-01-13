@@ -15,6 +15,8 @@ org_settings:
     server_url: $FLEET_URL
   org_info:
     org_name: Köln 🥨
+  fleet_desktop:
+    transparency_url: https://catoftheday.com
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
