@@ -32,6 +32,11 @@ fleet_settings:
 software:
 
 
+# could make it possible to add "overrides" to the manifest, like this:
+#
 # for_labels: Engineering department
 #  - controls:
 #    - 
+# - packages:
+#   - path: ../lib/macos/software/zoom.yml
+#     self_service: true
