@@ -24,8 +24,6 @@ org_settings:
     activities_webhook:
     enable_activities_webhook: true
     desintation_url: https://catoftheday.com
-  secrets:
-    - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
     enable_host_users: true
     enable_software_inventory: true
